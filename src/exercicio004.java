@@ -10,7 +10,7 @@ public class exercicio004 {
         double conta = 50.00;
         
         if (min > 100){
-            conta = conta + (min - 100) * 2;
+            conta += (min - 100) * 2; // usando operadores de atribuição
         } 
 
         System.out.printf("O valor da conta é: %.2f", conta);
