@@ -38,5 +38,7 @@ public class aula006 {
 
         System.out.println("Dia da semana: " + dia);
 
+        sc.close();
+
     }
 }
