@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Scanner;
-
+//bitwise
 public class aula012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
