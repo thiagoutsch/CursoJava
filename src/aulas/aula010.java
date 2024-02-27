@@ -1,7 +1,7 @@
 package aulas;
 import java.util.Scanner;
 import java.util.Locale;
-
+//do-while
 public class aula010 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
