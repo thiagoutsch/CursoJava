@@ -1,4 +1,5 @@
 package aulas;
+//operação split
 public class aula014 {
     public static void main(String[] args) {
         String s = "potato apple lemon";
