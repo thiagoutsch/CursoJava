@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Scanner;
-
+//introdução a funções
 public class aula015 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
