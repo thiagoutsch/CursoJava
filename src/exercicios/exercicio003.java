@@ -1,7 +1,7 @@
 package exercicios;
 import java.util.Scanner;
 import java.util.Locale;
-
+//exercicios de fixação
 public class exercicio003 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

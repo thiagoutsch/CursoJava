@@ -1,7 +1,7 @@
 package exercicios;
 
 import java.util.Scanner;
-
+//exercicios de fixação
 public class exercicio004 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

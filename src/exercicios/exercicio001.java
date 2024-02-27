@@ -1,6 +1,6 @@
 package exercicios;
 import java.util.Locale;
-
+//exercicios de fixação
 public class exercicio001 {
     public static void main(String[] args) throws Exception {
         

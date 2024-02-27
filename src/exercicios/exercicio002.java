@@ -1,6 +1,6 @@
 package exercicios;
 import java.util.Locale;
-
+//exercicios de fixação
 public class exercicio002 {
     public static void main(String[] args) {
         double largura = 10.0;
