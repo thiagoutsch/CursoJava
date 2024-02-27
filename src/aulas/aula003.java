@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Scanner;
-
+//scanner, next()
 public class aula003 {
     public static void main(String[] args) {
 
