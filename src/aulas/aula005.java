@@ -1,5 +1,5 @@
 package aulas;
-//operadores lógicos
+//operadores lógicos, if e else
 import java.util.Scanner;
 
 public class aula005 {
