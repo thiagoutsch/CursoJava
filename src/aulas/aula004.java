@@ -1,4 +1,5 @@
 package aulas;
+//raiz, elevação e valor absoluto
 public class aula004 {
     public static void main(String[] args) {
         double x = 3.0;
