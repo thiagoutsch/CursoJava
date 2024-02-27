@@ -1,4 +1,5 @@
 package aulas;
+//operadores lógicos
 import java.util.Scanner;
 
 public class aula005 {
