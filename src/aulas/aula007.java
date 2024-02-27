@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Scanner;
-
+//condicional ternária
 public class aula007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
