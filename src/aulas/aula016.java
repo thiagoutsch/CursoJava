@@ -1,29 +1,34 @@
+package aulas;
+
 import java.util.Scanner;
+import classes.Triangle;
 import java.util.Locale;
 
-public class exercicio005 {
+public class aula016 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        double a, b, c, d, e, f;
+        Triangle x, y;
+        x = new Triangle();
+        y = new Triangle();
 
         System.out.println("Digite as medidas do triangulo x: ");
-        a = sc.nextDouble();
-        b = sc.nextDouble();
-        c = sc.nextDouble();
+        x.a = sc.nextDouble();
+        x.b = sc.nextDouble();
+        x.c = sc.nextDouble();
 
         System.out.println("Digite as medidas do triangulo y: ");
-        d = sc.nextDouble();
-        e = sc.nextDouble();
-        f = sc.nextDouble();
+        y.a = sc.nextDouble();
+        y.b = sc.nextDouble();
+        y.c = sc.nextDouble();
 
-        double p = (a + b + c) /2.0;
-        double areaX = Math.sqrt(p*(p-a) * (p-b) * (p-c));
+        double p = (x.a + x.b + x.c) /2.0;
+        double areaX = Math.sqrt(p*(p-x.a) * (p-x.b) * (p-x.c));
 
-        p = (d + e + f) /2.0;
-        double areaY = Math.sqrt(p*(p-d) * (p-e) * (p-f));
+        p = (y.a + y.b + y.c) /2.0;
+        double areaY = Math.sqrt(p*(p-y.a) * (p-y.b) * (p-y.c));
 
         System.out.printf("Area do Triangulo X: %.2f %n", areaX);
         System.out.printf("Area do Triangulo Y: %.2f %n", areaY);
@@ -38,3 +43,4 @@ public class exercicio005 {
 
     }
 }
+
