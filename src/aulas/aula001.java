@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Locale;
-
+// locale, concatenação e %
 public class aula001 {
     public static void main(String[] args) throws Exception {
         int y = 32;
