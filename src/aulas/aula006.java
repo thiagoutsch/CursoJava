@@ -1,6 +1,6 @@
 package aulas;
 import java.util.Scanner;
-
+//switch-case
 public class aula006 {
     public static void main(String[] args) {
 
