@@ -1,4 +1,5 @@
 package aulas;
+//bitwise
 public class aula011 {
     public static void main(String[] args) {
         int n1 = 89;
