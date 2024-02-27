@@ -1,4 +1,5 @@
 package aulas;
+//funções para Strings
 public class aula013 {
     public static void main(String[] args) {
         String original = "abcde FGHIJ ABC abc DEFG    ";
